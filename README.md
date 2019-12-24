@@ -1,4 +1,7 @@
 # MEVN Boilerplate
+
+![mevn](docs/mevnstack.png)
+
 A MEVN based boilerplate. The MEVN stack consists of:
 - MongoDB
 - Express.Js
